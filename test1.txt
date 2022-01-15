@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7018-A896
+
+ Directory of C:\Users\hassan.nawaz\Desktop\my project
+
+15/01/2022  09:55 pm    <DIR>          .
+15/01/2022  09:55 pm    <DIR>          ..
+15/01/2022  09:55 pm                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  69,584,760,832 bytes free
